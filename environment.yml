@@ -2,6 +2,7 @@ name: swapi-py
 channels:
 - ioam
 - defaults
+- anaconda
 dependencies:
 - bleach=2.1.1=py36hd521086_0
 - bokeh=0.12.11=py36hc91ac8f_0
