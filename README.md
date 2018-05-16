@@ -2,7 +2,8 @@
 example using swapi + holoviews
 
 ## Binder
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tngTUDOR/swapi-planets/master)
 
 The notebook can be accessed at:
 
-https://hub.mybinder.org/user/tngtudor-swapi-planets-pr4aqw8m/notebooks/index.ipynb
+https://mybinder.org/v2/gh/tngTUDOR/swapi-planets/master
